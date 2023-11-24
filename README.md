@@ -1,4 +1,4 @@
-# ACRE-Radio-Damage
+# ACRE2 Radio Damage
 ##Adds a configurable chance of destroying your radios upon taking damage.
 
 ###Damage chance can be found in CBA Settings/Addon Options under ACRE Radio Damage.
